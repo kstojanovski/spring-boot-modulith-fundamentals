@@ -1,0 +1,1 @@
+example about module which depends on other and has nested module

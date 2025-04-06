@@ -1,0 +1,1 @@
+example of an not dependent module with named module.

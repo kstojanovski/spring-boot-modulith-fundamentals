@@ -1,0 +1,1 @@
+example about usage of all modules (legacy or spring-modulith-free mode)
